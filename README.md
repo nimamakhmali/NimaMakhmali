@@ -28,7 +28,7 @@ I'm a passionate **Computer Engineering** student who loves coding, problem-solv
 
 ## ✨ Quote
 
-> "The only way to do great work is to love what you do." – Steve Jobs
+> "Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill"
 
 ---
 ## 🚀 Tech Stack
@@ -37,9 +37,6 @@ I'm a passionate **Computer Engineering** student who loves coding, problem-solv
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MQL5](https://img.shields.io/badge/MQL5-FF9900?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-![Snake animation](https://github.com/NimaMakhmali/NimaMakhmali/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ## 🔗 Connect with Me
