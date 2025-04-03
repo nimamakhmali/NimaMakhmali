@@ -31,8 +31,7 @@ I'm a passionate **Computer Engineering** student who loves coding, problem-solv
 > "The only way to do great work is to love what you do." – Steve Jobs
 
 ---
-## 📅 GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NimaMakhmali&theme=radical)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 
 ---
 ## 🔗 Connect with Me
