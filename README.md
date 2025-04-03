@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Your Name]!
+# 👋 Hey there, I'm Nima Makhmali!
 
 I'm a passionate **Computer Engineering** student who loves coding, problem-solving, and building cool projects. I enjoy working on algorithms, AI, and trading bots. 🚀
 
@@ -6,9 +6,15 @@ I'm a passionate **Computer Engineering** student who loves coding, problem-solv
 
 ## 🔥 Skills & Technologies
 
-- **Programming Languages:** Python, C++, JavaScript, c, MQL5
+### 🚀 Programming Languages & Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,mql5,git,github,linux,latex" />
+</p>
+
+- **Programming Languages:** Python, C++, JavaScript, MQL5
 - **Machine Learning & AI:** Scikit-learn, TensorFlow (Learning)
 - **Trading & Finance:** Backtrader, MetaTrader 5
+- **Web Development:** HTML, CSS, React (Basics)
 - **Version Control:** Git & GitHub
 - **OS & Tools:** Linux (Arch), LaTeX
 
@@ -17,7 +23,7 @@ I'm a passionate **Computer Engineering** student who loves coding, problem-solv
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NimaMakhmali&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NimaMakhmali&layout=compact&theme=radical)
 
 ---
 
@@ -29,6 +35,6 @@ I'm a passionate **Computer Engineering** student who loves coding, problem-solv
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YourLinkedIn)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/YourGitHubUsername)  
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/YourTwitter)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/NimaMakhmali)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/NimaMakhmali)  
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/NimaMakhmali)
