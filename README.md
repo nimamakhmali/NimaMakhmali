@@ -39,6 +39,9 @@ I'm a passionate **Computer Engineering** student who loves coding, problem-solv
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+![Snake animation](https://github.com/NimaMakhmali/NimaMakhmali/blob/output/github-contribution-grid-snake.svg)
+
+---
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/NimaMakhmali)  
