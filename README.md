@@ -11,7 +11,7 @@ I'm a passionate **Computer Engineering** student who loves coding, problem-solv
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,mql5,git,github,latex,linux" />
 </p>
 
-- **Programming Languages:** Python, C++, JavaScript, c ,MQL5
+- **Programming Languages:** Python, C++, C,JavaScript,MQL5
 - **Machine Learning & AI:** Scikit-learn, TensorFlow (Learning)
 - **Trading & Finance:** Backtrader, yfinance, numpy, pandas, MetaTrader 5
 - **Version Control:** Git & GitHub
