@@ -6,10 +6,9 @@ I'm a passionate **Computer Engineering** student who loves coding, problem-solv
 
 ## 🔥 Skills & Technologies
 
-- **Programming Languages:** Python, C++, JavaScript, MQL5
+- **Programming Languages:** Python, C++, JavaScript, c, MQL5
 - **Machine Learning & AI:** Scikit-learn, TensorFlow (Learning)
 - **Trading & Finance:** Backtrader, MetaTrader 5
-- **Web Development:** HTML, CSS, React (Basics)
 - **Version Control:** Git & GitHub
 - **OS & Tools:** Linux (Arch), LaTeX
 
@@ -17,7 +16,7 @@ I'm a passionate **Computer Engineering** student who loves coding, problem-solv
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NimaMakhmali&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
 ---
