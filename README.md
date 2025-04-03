@@ -15,7 +15,7 @@ I'm a passionate **Computer Engineering** student who loves coding, problem-solv
 - **Machine Learning & AI:** Scikit-learn, TensorFlow (Learning)
 - **Trading & Finance:** Backtrader, yfinance, numpy, pandas, MetaTrader 5
 - **Version Control:** Git & GitHub
-- **OS & Tools:** Linux (Arch), LaTeX
+- **OS & Tools:** Linux (), LaTeX
 
 ---
 
