@@ -11,7 +11,7 @@ My main interests lie in algorithms, AI, blockchain development, and trading bot
 
 ### 🚀 Programming Languages & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,mql5,go,git,github,latex,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,go,js,mql5,git,github,latex,linux" />
 </p>
 
 - **Programming Languages:** Python, C++, C, JavaScript, Go, MQL5  
