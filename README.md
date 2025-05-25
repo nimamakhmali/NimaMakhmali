@@ -4,6 +4,8 @@ I'm a passionate **Computer Engineering** student who loves coding, problem-solv
 My main interests lie in algorithms, AI, blockchain development, and trading bots. 🚀
 
 ---
+![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nimamakhmali)
+
 
 ## 🔥 Skills & Technologies
 
