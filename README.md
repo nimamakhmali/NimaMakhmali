@@ -14,6 +14,11 @@ My main interests lie in algorithms, AI, blockchain development, and trading bot
   <img src="https://skillicons.dev/icons?i=python,cpp,c,go,js,mql5,git,github,latex,linux" />
 </p>
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimamakhmali&layout=compact&theme=cobalt"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nimamakhmali&show_icons=true&theme=cobalt" />
+</p>
+
 - **Programming Languages:** Python, C++, C, JavaScript, Go, MQL5  
 - **Machine Learning & AI:** Scikit-learn, TensorFlow (in progress)  
 - **Trading & Finance:** Backtrader, yfinance, numpy, pandas, MetaTrader 5  
