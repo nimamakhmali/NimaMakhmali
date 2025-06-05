@@ -15,9 +15,9 @@ My main interests lie in algorithms, AI, blockchain development, and trading bot
 </p>
 
 
-- **Programming Languages:** Python, C++, C, JavaScript, Go, MQL5  
+- **Programming Languages:** Python, C++, C, Go, MQL5  
 - **Machine Learning & AI:** Scikit-learn, TensorFlow (in progress)  
-- **Trading & Finance:** Backtrader, yfinance, numpy, pandas, MetaTrader 5  
+- **Trading & Finance:** numpy, pandas, matplotlib, yfinance, websocket, requests, MetaTrader5  
 - **Version Control:** Git & GitHub  
 - **Operating Systems & Tools:** Linux, LaTeX  
 
