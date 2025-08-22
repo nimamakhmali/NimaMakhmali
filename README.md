@@ -19,7 +19,7 @@ Currently diving deeper into **Python frameworks** and **backend development** w
 
 ### 💻 Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,go,js,mql5" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,go" />
 </p>
 
 - Python | C++ | C | Go | JavaScript | MQL5  
@@ -36,14 +36,14 @@ Currently diving deeper into **Python frameworks** and **backend development** w
 
 ### 🗄️ Databases & Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,neo4j,docker,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,git,github" />
 </p>
 
-- PostgreSQL | MySQL | Neo4j  
+- PostgreSQL | MySQL
 - Git, GitHub, Docker, Linux  
 
 ### 🔐 Tools & Others  
-- Wireshark | CMake | LaTeX | GitHub Actions | OWASP  
+- LaTeX | GitHub Actions 
 
 ---
 
