@@ -21,9 +21,14 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  
 
 ### 📚 Frameworks & Libraries  
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
-**Python ML/Data:** pandas • numpy • matplotlib • scikit-learn  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat&logo=plotly&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  
+
 
 ### 🛠️ Tools, Databases & Platforms  
 
