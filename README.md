@@ -1,60 +1,79 @@
-# 👋 Hey there, I'm Nima Makhmali!
+# 👋 Hey there, I'm Nima Makhmali!  
 
-I'm a passionate **Computer Engineering** student who loves coding, problem-solving, and building impactful projects.  
-My main interests lie in algorithms, AI, blockchain development, and trading bots. 🚀
+💡 Passionate **Computer Engineering student** | ⚡ Problem Solver | 🚀 Tech Explorer  
+
+I enjoy building impactful projects in **algorithms, AI, blockchain, and trading bots**.  
+Currently diving deeper into **Python frameworks** and **backend development** with FastAPI & Django.  
 
 ---
-![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nimamakhmali)
 
+## 🚀 About Me  
+- 📖 CE student with strong interest in **AI, blockchain & financial tech**  
+- 💻 Tech-savvy and always eager to learn new tools  
+- 🔭 Currently learning: **Django, FastAPI, TensorFlow**  
+- 🛠️ Love working with **algorithms, trading strategies & scalable systems**  
 
-## 🔥 Skills & Technologies
+---
 
-### 🚀 Programming Languages & Tools:
+## 🛠️ Skills & Technologies  
+
+### 💻 Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,go,mql5,git,github,latex,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,go,js,mql5" />
 </p>
 
+- Python | C++ | C | Go | JavaScript | MQL5  
 
-- **Programming Languages:** Python, C++, C, Go, MQL5  
-- **Machine Learning & AI:** Scikit-learn, TensorFlow (in progress)  
-- **Trading & Finance:** numpy, pandas, matplotlib, yfinance, websocket, requests, MetaTrader5  
-- **Version Control:** Git & GitHub  
-- **Operating Systems & Tools:** Linux, LaTeX  
+### 📚 Frameworks & Libraries  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,tailwind,htmx" />
+</p>
+
+- **Python ML/Data:** pandas, numpy, matplotlib, scikit-learn  
+- **Backend:** Django, FastAPI, Flask  
+- **Frontend:** React, TailwindCSS, htmx  
+- **Game/Graphics:** Raylib  
+
+### 🗄️ Databases & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,neo4j,docker,linux,git,github" />
+</p>
+
+- PostgreSQL | MySQL | Neo4j  
+- Git, GitHub, Docker, Linux  
+
+### 🔐 Tools & Others  
+- Wireshark | CMake | LaTeX | GitHub Actions | OWASP  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimamakhmali&theme=react-dark&hide_border=true&bg_color=0D1117" width="95%"/>
+</p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimamakhmali&layout=compact&theme=cobalt"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nimamakhmali&show_icons=true&theme=cobalt" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nimamakhmali&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimamakhmali&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
-## ✨ Favorite Quote
+## 🌟 Featured Projects  
+🔗 *(Coming soon – pinning my top repos here)*  
 
+---
+
+## ✨ Favorite Quote  
 > "Success is not final, failure is not fatal: It is the courage to continue that counts."  
-> — Winston Churchill
+> — Winston Churchill  
 
 ---
 
-## 🚀 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
-![MQL5](https://img.shields.io/badge/MQL5-FF9900?style=for-the-badge)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)  
-![Trading](https://img.shields.io/badge/Trading-F5A623?style=for-the-badge&logo=bitcoin&logoColor=white)  
-
----
-
-## 🔗 Connect with Me
+## 🔗 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/NimaMakhmali)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/NimaMakhmali)  
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/NimaMakhmali)  
+[![Gists](https://img.shields.io/badge/Gists-black?style=flat-square&logo=github)](https://gist.github.com/NimaMakhmali)  
