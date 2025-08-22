@@ -2,9 +2,6 @@
 
 💡 Passionate **Computer Engineering student** | ⚡ Problem Solver | 🚀 Tech Explorer  
 
-I enjoy building impactful projects in **algorithms, AI, blockchain, and trading bots**.  
-Currently diving deeper into **Python frameworks** and **backend development** with FastAPI & Django.  
-
 ---
 
 ## 🚀 About Me  
@@ -28,15 +25,18 @@ Currently diving deeper into **Python frameworks** and **backend development** w
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
 **Python ML/Data:** pandas • numpy • matplotlib • scikit-learn  
 
-### 🗄️ Databases & Platforms  
+### 🛠️ Tools, Databases & Platforms  
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white) 
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)  
 
-### 🔐 Tools & Others  
-CMake • LaTeX • GitHub Actions  
 
 ---
 
