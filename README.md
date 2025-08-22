@@ -57,20 +57,12 @@
 
 ---
 
-## 🌟 Featured Projects  
-🔗 *(Coming soon – pinning my top repos here)*  
-
----
-
 ## ✨ Favorite Quote  
 > "Success is not final, failure is not fatal: It is the courage to continue that counts."  
 > — Winston Churchill  
-
 ---
 
 ## 🔗 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/NimaMakhmali)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/NimaMakhmali)  
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/NimaMakhmali)  
-[![Gists](https://img.shields.io/badge/Gists-black?style=flat-square&logo=github)](https://gist.github.com/NimaMakhmali)  
