@@ -1,18 +1,18 @@
 # 👋 Hey there, I'm Nima Makhmali!  
 
-💡 Passionate **Computer Engineering student** | ⚡ Problem Solver | 🚀 Tech Explorer  
+💡 Passionate **Computer Engineering student** |  Tech Explorer  
 
 ---
 
-## 🚀 About Me  
-- 📖 CE student with strong interest in **AI, blockchain & financial tech**  
-- 💻 Tech-savvy and always eager to learn new tools  
-- 🔭 Currently learning: **Django, FastAPI, TensorFlow**  
-- 🛠️ Love working with **algorithms, trading strategies & scalable systems**  
+## About Me  
+-  CE student with strong interest in **AI, blockchain & Back-end**  
+-  Tech-savvy and always eager to learn new tools  
+-  Currently learning: **Django, FastAPI**  
+-  Love working with **algorithms, trading strategies & scalable systems**  
 
 ---
 
-## 🛠️ Skills & Technologies  
+## Skills & Technologies  
 
 ### 💻 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
@@ -61,10 +61,7 @@
 </p>
 
 ---
-
-##
 > "Success is not final, failure is not fatal: It is the courage to continue that counts."  
-
 ---
 
 
