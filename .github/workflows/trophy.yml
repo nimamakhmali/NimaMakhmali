@@ -1,0 +1,33 @@
+name: Generate Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate trophy image
+        uses: filiptronicek/github-profile-trophy@main
+        with:
+          username: ${{ github.repository_owner }}
+          theme: darkhub
+          no-frame: true
+          row: 1
+          column: 7
+          output: profile-trophy.svg
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add profile-trophy.svg
+          git commit -m "Update trophy image" || exit 0
+          git push
