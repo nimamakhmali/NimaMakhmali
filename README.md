@@ -66,12 +66,6 @@ class Nima:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FF0000&height=3&width=100%" width="100%"/>
 
-## Trophies
-
-<div align="center">
-  <img src="./profile-trophy.svg" width="100%"/>
-</div>
-
 
 ## Contribution Snake
 
