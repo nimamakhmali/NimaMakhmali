@@ -69,10 +69,9 @@ class Nima:
 ## Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nimamakhmali&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+  <img src="./profile-trophy.svg" width="100%"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FF0000&height=3&width=100%" width="100%"/>
 
 ## Contribution Snake
 
